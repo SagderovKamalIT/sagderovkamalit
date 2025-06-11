@@ -3,13 +3,13 @@
 <h1 align="center">🚀 Мой путь в IT</h1>
 
 <p align="center">
-Мой путь начался с Python 🐍, но вскоре я понял, что веб-разработка мне ближе. Летом 2024 впервые попробовал frontend — и это оказалось именно то, что искал.<br><br>
-С осени 2024 года учусь в **ВШУ РУДН** по направлению **«Цифровой дизайн и веб-разработка»**. За год:
+Мой путь начался с Python 🐍, но вскоре я понял, что веб-разработка мне ближе. Летом 2024 впервые попробовал frontend — и это оказалось именно то, что искал.<br>
+С осени 2024 года учусь в <strong>ВШУ РУДН</strong> по направлению <strong>«Цифровой дизайн и веб-разработка»</strong>. За год:
 </p>
 
-<ul align="center" style="display:inline-block; text-align:left;">
+<ul style="max-width: 400px; margin: 0 auto; padding-left: 20px;">
   <li>Сделал реальные проекты для РУДН</li>
-  <li>Углубился в **HTML/CSS**, начал активно изучать **JavaScript**</li>
+  <li>Углубился в <strong>HTML/CSS</strong>, начал активно изучать <strong>JavaScript</strong></li>
   <li>Постепенно формирую сильную базу как frontend-разработчик</li>
 </ul>
 
@@ -33,25 +33,27 @@
 
 ## 🛠️ Сейчас работаю с:
 
-HTML / CSS / SCSS  
-JavaScript (в процессе освоения)  
-Адаптивная вёрстка  
-Прототипирование и UI-дизайн
+- HTML / CSS / SCSS  
+- JavaScript (в процессе освоения)  
+- Адаптивная вёрстка  
+- Прототипирование и UI-дизайн
 
 ### 🛠️ Навыки и инструменты
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+</p>
 
 ---
 
 ## 🎯 Цели на ближайшее время:
 
-<ul align="center" style="display:inline-block; text-align:left;">
+<ul style="max-width: 400px; margin: 0 auto; padding-left: 20px;">
   <li>Освоить JavaScript на хорошем уровне</li>
   <li>Изучить React и другие современные фреймворки</li>
   <li>Сделать собственное портфолио и опубликовать свои проекты</li>
