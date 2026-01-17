@@ -1,85 +1,160 @@
-<div style="max-width: 700px; margin: 0 auto;">
+# 👋 Kamal Sagderov — Frontend Developer (React)
 
-<h1 align="center">🚀 Мой путь в IT</h1>
-
-<p align="center">
-Мой путь начался с Python 🐍, но вскоре я понял, что веб-разработка мне ближе. Летом 2024 впервые попробовал frontend — и это оказалось именно то, что искал.<br>
-С осени 2024 года учусь в <strong>ВШУ РУДН</strong> по направлению <strong>«Цифровой дизайн и веб-разработка»</strong>. За год:
-</p>
-
-<ul style="max-width: 400px; margin: 0 auto; padding-left: 20px;">
-  <li>Сделал реальные проекты для РУДН</li>
-  <li>Углубился в <strong>HTML/CSS</strong>, начал активно изучать <strong>JavaScript</strong></li>
-  <li>Постепенно формирую сильную базу как frontend-разработчик</li>
-</ul>
+🚀 **Frontend Developer Intern (стажер)**, сфокусированный на экосистеме **React**. Развиваюсь в направлении **React + TypeScript**, уделяю внимание архитектуре компонентов, качеству кода и современным UI‑решениям. 
 
 ---
 
-## 💼 Проекты
+## Профессиональный профиль
 
-**📊 [Big Data в экономике](https://sagderovkamalit.github.io/big-data-economics)**  
-Адаптивный лэндинг о применении больших данных в экономике. Использованы HTML5, SCSS, Vanilla JS. Реализовано бургер-меню с блокировкой прокрутки и закрытием при клике вне меню или по ссылке.
-
-
-**🌍 [Туризм будущего](https://sagderovkamalit.github.io/future-tourism)**  
-Визуальный и интерактивный сайт-презентация о будущих трендах в индустрии туризма. Использованы HTML5, SCSS, Vanilla JS. Реализованы адаптивное бургер-меню и автоскроллируемый слайдер с учётом ширины экрана.
-
-**🏗️ [Управление инженерными проектами](https://sagderovkamalit.github.io/engineering-management)**  
-адаптивный информационный сайт с акцентом на структуру и читаемость. Использованы HTML5 (по методологии БЭМ), SCSS и Vanilla JS. Реализовано бургер-меню с блокировкой прокрутки и закрытием по клику вне меню или по ссылке.
-
-**💻 [Информационные технологии и бизнес](https://sagderovkamalit.github.io/it)**  
- лендинг о влиянии ИТ на бизнес-среду. Использованы HTML5, SCSS, CSS3 и Vanilla JS. Реализованы бургер-меню с закрытием по клику вне меню и автослайдер с переключением слайдов вручную.
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React" /> **React** — компонентный подход, декомпозиция интерфейсов, переиспользуемые компоненты
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" alt="TypeScript" /> **TypeScript** — базовая и средняя типизация, интерфейсы, строгая типизация props
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="20" height="20" alt="Material UI" /> **Material UI (MUI)** — адаптивные и консистентные интерфейсы
+* 🧩 **SPA** — маршрутизация, управление состоянием, работа с формами и API
 
 ---
 
-## 🛠️ Сейчас работаю с:
+## Избранные проекты
 
-- HTML / CSS / SCSS  
-- JavaScript (в процессе освоения)  
-- Адаптивная вёрстка  
-- Прототипирование и UI-дизайн
+### ⚛️ Школа 21 × РУДН
 
-### 🛠️ Навыки и инструменты
+🌐 **Live:** [https://sagderovkamalit.github.io/school-21/](https://sagderovkamalit.github.io/school-21/)
 
-<p align="center">
+Лендинг совместного образовательного проекта РУДН и Школы 21, направленного на подготовку специалистов в области ИИ и цифровых технологий.
+
+**Стек:** React · Vite · SCSS · Three.js · Framer Motion · Lottie · Swiper
+
+**Роль и вклад:**
+
+* Проектирование компонентной структуры
+* Реализация анимаций и интерактивных элементов
+* Адаптивная вёрстка и оптимизация производительности
+
+**Ключевые компоненты:** HeroSection, AboutProgram, TrainingTasks, JobPrep, Employers, ContactForm
+
+**Особенности:**
+
+* Адаптивный дизайн
+* Интерактивные 3D‑элементы
+* Плавные анимации и переходы
+* SEO‑оптимизация
+* Интеграция Яндекс.Метрики
+
+---
+
+### 🌐 Цифровая трансформация бизнеса
+
+🌐 **Live:** [https://sagderovkamalit.github.io/digital-transformation](https://sagderovkamalit.github.io/digital-transformation)
+
+Официальный сайт международной научно‑практической конференции Высшей школы управления РУДН.
+
+**Стек:** React 19 · Vite · SASS · ESLint
+
+**Реализовано:**
+
+* Структурированная SPA‑архитектура
+* Информационные и навигационные разделы
+* Форма регистрации участников
+
+**Особенности:**
+
+* Полностью адаптивный интерфейс
+* Чёткая компонентная иерархия
+* Подготовка проекта к production‑деплою
+
+---
+
+### 🎂 Сладкий сундук — сайт заказа тортов
+
+🌐 **Live:** [https://sagderovkamalit.github.io/RUDN-Webdev-HW](https://sagderovkamalit.github.io/RUDN-Webdev-HW)
+
+Одностраничный React‑лендинг для кондитерской, реализованный по дизайн‑макету из Figma.
+
+**Стек:** React 19 · TypeScript · Vite · SCSS Modules
+
+**Реализовано:**
+
+* Декомпозиция интерфейса на атомарные компоненты
+* Интерактивные карточки товаров
+* Счётчик количества и автоматический расчёт стоимости
+* Pixel‑perfect адаптивная вёрстка
+
+---
+
+### 📋 Kanban‑доска для управления задачами
+
+🌐 **Live:** [https://sagderovkamalit.github.io/RUDN-Webdev-HW2/](https://sagderovkamalit.github.io/RUDN-Webdev-HW2/)
+
+Учебное React‑приложение Kanban‑доски, выполненное в рамках курса «Промышленная веб‑разработка».
+
+**Стек:** React 19 · TypeScript · Vite · Material UI · React Router · TanStack Query · Axios
+
+**Функциональность:**
+
+* CRUD‑операции с задачами
+* Управление статусами (To Do / In Progress / Done)
+* Детальная страница задачи
+* Загрузка данных с JSONPlaceholder API
+* Сохранение состояния в localStorage
+
+**Технические акценты:**
+
+* Кастомные хуки
+* Кеширование и синхронизация данных
+* Полная типизация
+* Обработка состояний загрузки и ошибок
+
+> ⚠️ Проект используется как учебный — углубляю понимание архитектуры и state‑management
+
+---
+
+## 🛠️ Технологии и инструменты
+
+### ⚙️ Стек
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="SCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" alt="Material UI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" />
+</p>
+
+### 🧰 Инструменты
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
 </p>
 
 ---
 
-## 🎯 Цели на ближайшее время:
+## 🎯 Профессиональные цели
 
-<ul style="max-width: 400px; margin: 0 auto; padding-left: 20px;">
-  <li>Освоить JavaScript на хорошем уровне</li>
-  <li>Изучить React и другие современные фреймворки</li>
-  <li>Сделать собственное портфолио и опубликовать свои проекты</li>
-  <li>Участвовать в стажировках и хакатонах</li>
-</ul>
-
----
-
-## 📊 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagderovKamalIT&show_icons=true&theme=radical" alt="GitHub Stats" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagderovKamalIT&layout=compact&theme=radical" alt="Top Languages" /><br><br>
-  <img src="https://streak-stats.demolab.com?user=SagderovKamalIT&theme=radical" alt="GitHub Streak" />
-</p>
+* Углубить знания React и TypeScript
+* Освоить продвинутые паттерны 
+* Начать работу с backend API и асинхронными данными
+* Повысить качество архитектуры и читаемость кода
+* Принять участие в стажировках и хакатонах
 
 ---
 
-## 📫 Связаться со мной
+## GitHub activity
 
-Telegram: [@kamal_sagderov](https://t.me/kamal_sagderov)  
-Email: [sagderovkamal.it@gmail.com](mailto:sagderovkamal.it@gmail.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagderovkamalit&layout=compact&langs_count=6&cache_seconds=1800)
+
 
 ---
 
-<p align="center">⭐️ Спасибо, что заглянул в мой профиль! Буду рад фидбеку и новым знакомствам 🤝</p>
+## 📫 Контакты
 
-</div>
+* Telegram: [https://t.me/kamal_sagderov](https://t.me/kamal_sagderov)
+* Email: [sagderovkamal.it@gmail.com](mailto:sagderovkamal.it@gmail.com)
+
+---
+
+⭐️ Спасибо за интерес к моему профилю. Открыт к профессиональному общению, фидбеку и новым возможностям.
