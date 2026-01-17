@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:059669&height=200&section=header&text=Kamal%20Sagderov&fontSize=40&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React&descAlignY=55&animation=wave&fontColor=ffffff&backgroundColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:059669&height=200&section=header&text=Kamal%20Sagderov&fontSize=40&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React&descAlignY=55&animation=wave&animationDuration=1000&fontColor=111827&textGradient=0:059669,100:10B981&backgroundColor=ffffff" />
 </p>
-
 
 
 <div align="center">
